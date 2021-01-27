@@ -1,10 +1,14 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+---
+title: "Failing-Forward"
+date: 2021-01-27
+---
+
+theme: minima
+title: Web Dev Bootcamp
+author: wtsaygers1
+email: wtsaygers1@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  My experience in the Awesome Inc U Web Dev Bootcamp for the Spring 2021 class.
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
